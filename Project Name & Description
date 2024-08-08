@@ -1,4 +1,12 @@
-Forecast Number of Clusters of Artificial DataForecast Number of Clusters of Artificial Data
+1. Forecast Number of Clusters of Artificial DataForecast Number of Clusters of Artificial Data
 
-Used scikit learn to get some artificial data points having 4 centroids.
+Used Scikit-learn to get some artificial data points having 4 centroids.
 We then applied K means clustering to find those 4 clusters.
+
+
+2. Predicting the Type of College using K-Means ClusteringPredicting the Type of College using K-Means Clustering
+
+We used College_Data to predict whether the college is private or not using features
+such as Grad Rate, Room Board, Outstate etc. 
+After that, K means clustering was applied to find the clusters 
+that predict whether the college is private or not.
