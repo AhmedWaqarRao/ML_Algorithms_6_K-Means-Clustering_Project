@@ -1,0 +1,4 @@
+Forecast Number of Clusters of Artificial DataForecast Number of Clusters of Artificial Data
+
+Used scikit learn to get some artificial data points having 4 centroids.
+We then applied K means clustering to find those 4 clusters.
